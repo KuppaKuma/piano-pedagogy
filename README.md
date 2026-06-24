@@ -9,7 +9,7 @@ This repository houses a premium, structured synthesis of advanced piano pedagog
 *   **[Lhevinne and Matthay - Pedagogical Summary.md](Lhevinne%20and%20Matthay%20-%20Pedagogical%20Summary.md)**: Integrates the Russian school's cantabile tone concept ("pneumatic tires" and "shock absorbers") with Matthay's mechanical weight-release and rotation concepts. Features a comparative terminology matrix and an integrated 10-minute technical warm-up regimen.
 *   **[Piano Memorization - Theory and Practice.md](Piano%20Memorization%20-%20Theory%20and%20Practice.md)**: A cognitive and motoric memorization guide detailing the 8 channels of memory, Neuhaus's Master & Servant division, Matthay's neural "Memory Scratch" law, and the "Next-Note" fallacy (Darwin's sneeze). Includes an actionable 4-step practice workflow.
 *   **[Piano Physiology and Finger Release.md](Piano%20Physiology%20-%20Theory%20and%20Practice.md)**: A deep anatomical dive into resolving **co-contraction** (the antagonistic flexor/extensor and pronator/supinator tug-of-war), keybedding, the biomechanics of the "finger snap" and "scratch touch" strokes, and step-by-step diagnostic tests and cures.
-*   **[Practice Plan/Chopin Etude 10-4.md](Practice%20Plan/Chopin%20Etude%2010-4.md)**: An actionable, 15-minute practicing routine applying these mechanical principles to master rapid sixteenth-note runs without tension.
+*   **[00 - Practice Plan/Chopin Etude 10-4.md](00%20-%20Practice%20Plan/Chopin%20Etude%2010-4.md)**: An actionable, 15-minute practicing routine applying these mechanical principles to master rapid sixteenth-note runs without tension.
 
 ---
 

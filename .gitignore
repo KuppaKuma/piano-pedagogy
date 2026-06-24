@@ -1,0 +1,10 @@
+# Ignore original raw book source folder
+.archive_original/
+
+# Ignore status files
+conversion_status.txt
+
+# Ignore backup files
+*.bak
+**/*.bak
+**/.*.bak

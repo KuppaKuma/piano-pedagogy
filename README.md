@@ -13,12 +13,13 @@ This repository houses a premium, structured synthesis of advanced piano pedagog
 
 ---
 
-## ⚙️ Obsidian Linking & Formatting Rules (For Agents)
+## ⚙️ Obsidian Linking & Formatting Rules
 
-To maintain vault integrity and allow seamless, precise navigation in Obsidian:
-1.  **Strict Wiki-Links**: Always use double-bracket links `[[Path/To/File#^block-anchor|Label]]` or `[[Path/To/File#Heading|Label]]` without the `.md` extension.
-2.  **Caret-level Block Anchors (`#^`)**: Never link to flat pages or general chapters when citing specific ideas or quotes. Ensure references link directly to a specific sentence's block anchor (e.g. `^eight-forms` or `^keybedding-definition`) in the primary treatise notes.
-3.  **Link Verification**: Before committing or pushing changes, run the Python link validation script from the repository root:
+To maintain database integrity and ensure seamless navigation for both humans and AI agents:
+1.  **Repository-Relative Portability**: All links use repository-relative paths (e.g. `[[Josef Lhevinne/Josef Lhevinne - Basic Principles in Pianoforte Playing#CHAPTER III|Tone Secret]]`). This guarantees that when the repository is cloned and opened as a standalone Obsidian vault (or imported into an existing vault), all links and caret-level block anchors will resolve perfectly on any machine.
+2.  **Strict Wiki-Links**: Always use double-bracket links `[[Path/To/File#^block-anchor|Label]]` or `[[Path/To/File#Heading|Label]]` without the `.md` extension.
+3.  **Caret-level Block Anchors (`#^`)**: Never link to flat pages or general chapters when citing specific ideas or quotes. Ensure references link directly to a specific sentence's block anchor (e.g. `^eight-forms` or `^keybedding-definition`) in the primary treatise notes.
+4.  **Link Verification**: Before committing or pushing changes, run the Python link validation script from the repository root:
     ```bash
     python3 "scripts/find_broken_links.py"
     ```

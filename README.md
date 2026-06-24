@@ -18,9 +18,9 @@ This repository houses a premium, structured synthesis of advanced piano pedagog
 To maintain vault integrity and allow seamless, precise navigation in Obsidian:
 1.  **Strict Wiki-Links**: Always use double-bracket links `[[Path/To/File#^block-anchor|Label]]` or `[[Path/To/File#Heading|Label]]` without the `.md` extension.
 2.  **Caret-level Block Anchors (`#^`)**: Never link to flat pages or general chapters when citing specific ideas or quotes. Ensure references link directly to a specific sentence's block anchor (e.g. `^eight-forms` or `^keybedding-definition`) in the primary treatise notes.
-3.  **Link Verification**: Before committing or pushing changes, run the Python link validation script from the vault root:
+3.  **Link Verification**: Before committing or pushing changes, run the Python link validation script from the repository root:
     ```bash
-    python3 "99 - Meta/find_broken_links.py"
+    python3 "scripts/find_broken_links.py"
     ```
 
 ---

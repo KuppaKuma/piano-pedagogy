@@ -87,3 +87,19 @@ For clean, digital PDFs, bypass the OCR models to reduce conversion time from ho
 ```bash
 --disable_ocr
 ```
+
+---
+
+## 📄 License & Copyright
+
+Copyright (c) 2026 KuppaKuma. All rights reserved.
+
+This repository is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)** license. 
+
+Under this license:
+*   **No Commercial Use**: You may not use this material for commercial purposes.
+*   **No Derivatives**: If you remix, transform, or build upon the material, you may not distribute the modified material.
+*   **Attribution**: You must give appropriate credit and provide a link to the license.
+
+For the full legal code, see the [LICENSE](LICENSE) file.
+
